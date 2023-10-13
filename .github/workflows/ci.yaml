@@ -15,4 +15,4 @@ jobs:
           distribution: 'adopt'
       - name: Test with Maven
         run: mvn --batch-mode --update-snapshots package
-        #its me
+        #it's me
